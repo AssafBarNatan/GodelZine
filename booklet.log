@@ -1,0 +1,384 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.21)  2 APR 2018 14:38
+entering extended mode
+**./booklet.tex
+(booklet.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.s
+ty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.st
+y"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
+sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count87
+\calc@Bcount=\count88
+\calc@Adimen=\dimen107
+\calc@Bdimen=\dimen108
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count89
+\calc@Cskip=\skip45
+)
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.st
+y"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
+i.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)))
+\AM@pagewidth=\dimen109
+\AM@pageheight=\dimen110
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
+def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@global@opts=\toks15
+\AM@toc@title=\toks16
+\c@AM@survey=\count90
+\AM@templatesizebox=\box27
+) (booklet.aux)
+\openout1 = `booklet.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen111
+\scratchbox=\box28
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen112
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks18
+)
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box29
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
+.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.st
+y"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+("C:\Users\assaf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+<eZine.pdf, id=1, 298.75415pt x 421.10124pt>
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf>
+Package pdftex.def Info: eZine.pdf  used on input line 5.
+(pdftex.def)             Requested size: 298.75342pt x 421.1002pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf>
+Package pdftex.def Info: eZine.pdf  used on input line 5.
+(pdftex.def)             Requested size: 298.75342pt x 421.1002pt.
+<eZine.pdf, id=4, page=8, 298.75415pt x 421.10124pt>
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 8>
+Package pdftex.def Info: eZine.pdf , page8 used on input line 5.
+(pdftex.def)             Requested size: 298.75342pt x 421.1002pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 8>
+Package pdftex.def Info: eZine.pdf , page8 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 8>
+Package pdftex.def Info: eZine.pdf , page8 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 8>
+Package pdftex.def Info: eZine.pdf , page8 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+<eZine.pdf, id=5, page=1, 298.75415pt x 421.10124pt>
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 1>
+Package pdftex.def Info: eZine.pdf , page1 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 1>
+Package pdftex.def Info: eZine.pdf , page1 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 8>
+Package pdftex.def Info: eZine.pdf , page8 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 1>
+Package pdftex.def Info: eZine.pdf , page1 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+ [1
+
+ <./eZine.pdf{C:/Users/assaf/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+> <./eZine.pdf>]
+<eZine.pdf, id=93, page=7, 298.75415pt x 421.10124pt>
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 7>
+Package pdftex.def Info: eZine.pdf , page7 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 7>
+Package pdftex.def Info: eZine.pdf , page7 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+<eZine.pdf, id=94, page=2, 298.75415pt x 421.10124pt>
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 2>
+Package pdftex.def Info: eZine.pdf , page2 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 2>
+Package pdftex.def Info: eZine.pdf , page2 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 7>
+Package pdftex.def Info: eZine.pdf , page7 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 2>
+Package pdftex.def Info: eZine.pdf , page2 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+ [2 <./eZine.pdf> <./eZine.pdf>]
+<eZine.pdf, id=124, page=6, 298.75415pt x 421.10124pt>
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 6>
+Package pdftex.def Info: eZine.pdf , page6 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 6>
+Package pdftex.def Info: eZine.pdf , page6 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+<eZine.pdf, id=125, page=3, 298.75415pt x 421.10124pt>
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 3>
+Package pdftex.def Info: eZine.pdf , page3 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 3>
+Package pdftex.def Info: eZine.pdf , page3 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 6>
+Package pdftex.def Info: eZine.pdf , page6 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 3>
+Package pdftex.def Info: eZine.pdf , page3 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+ [3 <./eZine.pdf> <./eZine.pdf>]
+<eZine.pdf, id=156, page=5, 298.75415pt x 421.10124pt>
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 5>
+Package pdftex.def Info: eZine.pdf , page5 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 5>
+Package pdftex.def Info: eZine.pdf , page5 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+<eZine.pdf, id=157, page=4, 298.75415pt x 421.10124pt>
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 4>
+Package pdftex.def Info: eZine.pdf , page4 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 4>
+Package pdftex.def Info: eZine.pdf , page4 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 5>
+Package pdftex.def Info: eZine.pdf , page5 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+File: eZine.pdf Graphic file (type pdf)
+<use eZine.pdf, page 4>
+Package pdftex.def Info: eZine.pdf , page4 used on input line 5.
+(pdftex.def)             Requested size: 422.87994pt x 596.05957pt.
+ [4 <./eZine.pdf> <./eZine.pdf>] (booklet.aux) ) 
+Here is how much of TeX's memory you used:
+ 2359 strings out of 493305
+ 37157 string characters out of 3129802
+ 93655 words of memory out of 3000000
+ 5891 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,20n,49p,276b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/assaf/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/ass
+af/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mnsymbol/MnSymbol10.pfb
+><C:/Users/assaf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mnsymbol/
+MnSymbol12.pfb><C:/Users/assaf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/mnsymbol/MnSymbol6.pfb><C:/Users/assaf/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/assaf/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/skaknew/SkakNew-Figurine.pfb><C:/Users/assaf/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Us
+ers/assaf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcs
+c10.pfb><C:/Users/assaf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><C:/Users/assaf/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi12.pfb><C:/Users/assaf/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/assaf/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/assaf/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
+/assaf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><C:/Users/assaf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr17.pfb><C:/Users/assaf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/Users/assaf/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/assaf/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/assaf/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/assaf/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
+b><C:/Users/assaf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/symbols/msbm10.pfb>
+Output written on booklet.pdf (4 pages, 1840300 bytes).
+PDF statistics:
+ 203 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
