@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.11)  18 DEC 2018 13:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.11)  18 DEC 2018 13:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -772,8 +772,7 @@ Package ifvtex Info: VTeX not detected.
 \c@Example=\count136
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
-
-No file GodelZine.aux.
+ (./GodelZine.aux)
 \openout1 = `GodelZine.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
@@ -938,137 +937,72 @@ ABD: EveryShipout initializing macros
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<./Images/suit.png, id=4, 318.18875pt x 642.4pt>
-File: ./Images/suit.png Graphic file (type png)
-<use ./Images/suit.png>
-Package pdftex.def Info: ./Images/suit.png  used on input line 69.
-(pdftex.def)             Requested size: 120.92422pt x 244.13414pt.
-(c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-(c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-<./Images/number.png, id=6, 383.18156pt x 133.24782pt>
-File: ./Images/number.png Graphic file (type png)
-<use ./Images/number.png>
-Package pdftex.def Info: ./Images/number.png  used on input line 75.
-(pdftex.def)             Requested size: 96.7379pt x 33.6392pt.
- [1{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Images/sui
-t.png> <./Images/number.png>]
-<./Images/eIsland.png, id=17, 604.2575pt x 237.88875pt>
-File: ./Images/eIsland.png Graphic file (type png)
-<use ./Images/eIsland.png>
-Package pdftex.def Info: ./Images/eIsland.png  used on input line 83.
-(pdftex.def)             Requested size: 145.11053pt x 57.12712pt.
-LaTeX Font Info:    Try loading font information for U+fontawesometwo on input 
-line 86.
- (c:/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
-File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
-)
-LaTeX Font Info:    Try loading font information for U+fontawesomeone on input 
-line 92.
-(c:/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
-File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
-) [2 <./Images/eIsland.png>]
-<./Images/e_digits.png, id=38, 709.65125pt x 1003.75pt>
-File: ./Images/e_digits.png Graphic file (type png)
-<use ./Images/e_digits.png>
-Package pdftex.def Info: ./Images/e_digits.png  used on input line 113.
-(pdftex.def)             Requested size: 298.75533pt x 421.11266pt.
- [3 <./Images/e_digits.png>]
-Missing character: There is no º in font cmr10!
-LaTeX Font Info:    Try loading font information for U+fontawesomethree on inpu
-t line 150.
+(./page1.tex) [1{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./page2.tex) [2] (./page3.tex) [3] (./page4.tex) [4] (./page5.tex
+<./Images/Chretien_Jean.jpg, id=21, 151.56625pt x 181.67876pt>
+File: ./Images/Chretien_Jean.jpg Graphic file (type jpg)
+<use ./Images/Chretien_Jean.jpg>
+Package pdftex.def Info: ./Images/Chretien_Jean.jpg  used on input line 5.
+(pdftex.def)             Requested size: 28.45097pt x 28.45099pt.
+<./Images/Godel.jpg, id=22, 250.9375pt x 355.3275pt>
+File: ./Images/Godel.jpg Graphic file (type jpg)
+<use ./Images/Godel.jpg>
+Package pdftex.def Info: ./Images/Godel.jpg  used on input line 6.
+(pdftex.def)             Requested size: 28.4494pt x 28.44846pt.
+File: ./Images/Chretien_Jean.jpg Graphic file (type jpg)
+<use ./Images/Chretien_Jean.jpg>
+Package pdftex.def Info: ./Images/Chretien_Jean.jpg  used on input line 9.
+(pdftex.def)             Requested size: 28.45097pt x 28.45099pt.
+File: ./Images/Godel.jpg Graphic file (type jpg)
+<use ./Images/Godel.jpg>
+Package pdftex.def Info: ./Images/Godel.jpg  used on input line 10.
+(pdftex.def)             Requested size: 28.4494pt x 28.44846pt.
+File: ./Images/Chretien_Jean.jpg Graphic file (type jpg)
+<use ./Images/Chretien_Jean.jpg>
+Package pdftex.def Info: ./Images/Chretien_Jean.jpg  used on input line 11.
+(pdftex.def)             Requested size: 28.45097pt x 28.45099pt.
+File: ./Images/Godel.jpg Graphic file (type jpg)
+<use ./Images/Godel.jpg>
+Package pdftex.def Info: ./Images/Godel.jpg  used on input line 12.
+(pdftex.def)             Requested size: 28.4494pt x 28.44846pt.
+File: ./Images/Chretien_Jean.jpg Graphic file (type jpg)
+<use ./Images/Chretien_Jean.jpg>
+Package pdftex.def Info: ./Images/Chretien_Jean.jpg  used on input line 14.
+(pdftex.def)             Requested size: 28.45097pt x 28.45099pt.
+File: ./Images/Godel.jpg Graphic file (type jpg)
+<use ./Images/Godel.jpg>
+Package pdftex.def Info: ./Images/Godel.jpg  used on input line 15.
+(pdftex.def)             Requested size: 28.4494pt x 28.44846pt.
+File: ./Images/Chretien_Jean.jpg Graphic file (type jpg)
+<use ./Images/Chretien_Jean.jpg>
+Package pdftex.def Info: ./Images/Chretien_Jean.jpg  used on input line 16.
+(pdftex.def)             Requested size: 28.45097pt x 28.45099pt.
 
-(c:/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
-File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
-)
-Missing character: There is no º in font cmr10!
-Missing character: There is no º in font cmr10!
-<./Images/cookies.png, id=47, 688.5725pt x 320.19624pt>
-File: ./Images/cookies.png Graphic file (type png)
-<use ./Images/cookies.png>
-Package pdftex.def Info: ./Images/cookies.png  used on input line 167.
-(pdftex.def)             Requested size: 157.20001pt x 73.09637pt.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[4 <./Images/cookies.png>]
-
-LaTeX Font Warning: Font shape `U/fontawesometwo/m/it' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 208.
-
-[5]
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-<./Images/log.png, id=61, 613.29124pt x 296.10625pt>
-File: ./Images/log.png Graphic file (type png)
-<use ./Images/log.png>
-Package pdftex.def Info: ./Images/log.png  used on input line 236.
-(pdftex.def)             Requested size: 137.85538pt x 66.55777pt.
- [6 <./Images/log.png>]
-
-LaTeX Font Warning: Font shape `U/fontawesometwo/m/sc' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 241.
-
-<./Images/Euler.png, id=67, 691.58376pt x 691.58376pt>
-File: ./Images/Euler.png Graphic file (type png)
-<use ./Images/Euler.png>
-Package pdftex.def Info: ./Images/Euler.png  used on input line 242.
-(pdftex.def)             Requested size: 298.75761pt x 421.10568pt.
-[7 <./Images/Euler.png (PNG copy)>]
-<./Images/cat.png, id=72, 146.04562pt x 113.42375pt>
-File: ./Images/cat.png Graphic file (type png)
-<use ./Images/cat.png>
-Package pdftex.def Info: ./Images/cat.png  used on input line 312.
-(pdftex.def)             Requested size: 10.0pt x 7.76567pt.
- [8 <./Images/Cat.png>] (./GodelZine.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+ [5 <./Images/Chretien_Jean.jpg> <./Images/Godel.jpg>]
+File: ./Images/Godel.jpg Graphic file (type jpg)
+<use ./Images/Godel.jpg>
+Package pdftex.def Info: ./Images/Godel.jpg  used on input line 17.
+(pdftex.def)             Requested size: 28.4494pt x 28.44846pt.
+) [6] (./page6.tex) [7] (./page7.tex) [8] (./page8.tex) [9] (./GodelZine.aux) )
+ 
 Here is how much of TeX's memory you used:
- 20356 strings out of 492639
- 362423 string characters out of 6133102
- 432278 words of memory out of 5000000
- 23618 multiletter control sequences out of 15000+600000
- 34219 words of font info for 143 fonts, out of 8000000 for 9000
+ 19879 strings out of 492639
+ 351959 string characters out of 6133102
+ 421309 words of memory out of 5000000
+ 23217 multiletter control sequences out of 15000+600000
+ 12026 words of font info for 49 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 55i,13n,54p,798b,677s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2018/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{c:/texliv
-e/2018/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{c:/texlive/2018/texmf
--dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{c:/texlive/2018/texmf-dist/fonts/
-enc/dvips/fontawesome/fontawesomethree.enc}{c:/texlive/2018/texmf-dist/fonts/en
-c/dvips/mnsymbol/MnSymbolC.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/font
-awesome/fontawesomeone.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/mnsymbol
-/MnSymbolF.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawes
-ometwo.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAweso
-me.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol10.pfb><
-c:/texlive/2018/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb><c:/texli
-ve/2018/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol6.pfb><c:/texlive/2018/t
-exmf-dist/fonts/type1/public/mnsymbol/MnSymbol8.pfb><c:/texlive/2018/texmf-dist
-/fonts/type1/public/skaknew/SkakNew-Figurine.pfb><c:/texlive/2018/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.
-pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/te
-xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2018/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmti12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.p
-fb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><
-c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on GodelZine.pdf (8 pages, 1794994 bytes).
+ 55i,5n,54p,798b,249s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texli
+ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2018/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on GodelZine.pdf (9 pages, 70143 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
+ 55 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16437 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 5143 words of extra memory for PDF output out of 10000 (max. 10000000)
 
